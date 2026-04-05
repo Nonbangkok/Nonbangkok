@@ -14,8 +14,13 @@ on:
     branches:
     - main
 
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
 jobs:
   generate:
+    permissions: 
+      contents: write
     runs-on: ubuntu-latest
     timeout-minutes: 10
     
@@ -31,7 +36,7 @@ jobs:
 
       # Step 2: Takes the generated SVGs from the 'dist' folder and pushes them to a separate branch called 'output'
       - name: push github-contribution-grid-snake.svg to the output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist

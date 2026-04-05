@@ -65,26 +65,27 @@
 
 ### 💼 Experience
 
-• Teaching Assistant — POSN Computer Olympiad Camp 1  
-• Teaching Assistant — POSN Computer Olympiad Camp 2 (Walailak University) 
+• 👨‍🏫 Teaching Assistant — POSN Computer Olympiad Camp 1  
+• 👨‍🏫 Teaching Assistant — POSN Computer Olympiad Camp 2 (Walailak University) 
+
 
 ---
 
 ### 🏆 Achievements
 
-• Silver Medal — Neo Science Olympiad 2025 : Mathematics  
-• Silver Medal — Thailand I-New Gen Award 2025  
-• 1st Runner-up — Super AI Engineer Season 5 : Track Innovator  
-• 2nd Runner-up — 21st Triam Udom Mathematics and Science Olympiad (TUMSO)  
-• Bronze Medal — 21th Thailand Olympiad in Informatics (TOI 21)  
-• Bronze Medal — SUT Astro Coding Challenge 1st  
-• The Best Innovation Award — Creative AI Camp 2024  
-• Qualified (Top 36 Teams) — Bangmod Hackathon 2023 & 2024  
-• Honorable Mention — PSU Mathematics Competition (PMC) 2024  
-• Founding Round — National Software Contest 2025 (NSC 2025)  
-• Participant — Southern Inventor Award 2025  
-• Participant — Thailand Olympiad in Informatics 20 (TOI 20)  
-• Participant — TPA Robo Rescue with MicroROS
+• 🥈 Silver Medal — Neo Science Olympiad 2025 : Mathematics  
+• 🥈 Silver Medal — Thailand I-New Gen Award 2025  
+• 🥈 1st Runner-up — Super AI Engineer Season 5 : Track Innovator  
+• 🥉 2nd Runner-up — 21st Triam Udom Mathematics and Science Olympiad (TUMSO)  
+• 🥉 Bronze Medal — 21th Thailand Olympiad in Informatics (TOI 21)  
+• 🥉 Bronze Medal — SUT Astro Coding Challenge 1st  
+• 🏆 The Best Innovation Award — Creative AI Camp 2024  
+• 🚀 Qualified (Top 36 Teams) — Bangmod Hackathon 2023 & 2024  
+• 🎖️ Honorable Mention — PSU Mathematics Competition (PMC) 2024  
+• 💡 Founding Round — National Software Contest 2025 (NSC 2025)  
+• 🤖 Participant — Southern Inventor Award 2025  
+• 🤖 Participant — Thailand Olympiad in Informatics 20 (TOI 20)  
+• 🤖 Participant — TPA Robo Rescue with MicroROS
 
 
 ---
